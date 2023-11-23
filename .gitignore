@@ -1,0 +1,8 @@
+# cmake related artifacts
+/build*
+CMakeFiles
+CTestTestfile.cmake
+cmake_install.cmake
+*_autogen
+tst_*.xml
+CMakeLists.txt.user
